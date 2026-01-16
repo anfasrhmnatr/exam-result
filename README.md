@@ -1,1 +1,1 @@
-KTU   exam-result  2026
+APJKTU   exam-result  2026
